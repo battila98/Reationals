@@ -8,6 +8,11 @@ namespace RationalNumbers
 {
     class Program
     {
+        public void Bekeres()
+        {
+           string nevezo = Console.ReadLine(Convert.ToInt32());
+        }
+
         static void Main(string[] args)
         {
         }
